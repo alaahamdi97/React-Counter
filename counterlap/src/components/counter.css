@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.counter {
+  text-align: center;
+  background-color: cadetblue;
+  height: 100vh;
+  width: 100%;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: cursive;
+  color: #145252;
+  padding-top: 6rem;
+  text-shadow: 10px 6px 19px;
+  margin-bottom: 1.5rem;
+}
+
+.counter__output {
+  background-color: #baeaea;
+  padding: 1rem;
+  border: darkslategray 3px solid;
+  border-radius: 3rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  font-family: cursive;
+  box-shadow: 1px 5px 11px darkslategrey;
+  color: darkslategrey;
+}
+button {
+  padding: 0.5rem 2rem;
+  background-color: #baeaea;
+  border: 2px solid darkslategray;
+  font-size: 1.5rem;
+  border-radius: 1.3rem;
+  box-shadow: 1px 5px 11px darkslategrey;
+  color: darkslategrey;
+  margin: 0 0.5rem;
+  font-family: cursive;
+}
